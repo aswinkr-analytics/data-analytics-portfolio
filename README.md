@@ -193,7 +193,7 @@ I'm actively seeking opportunities to contribute to data-driven teams. Whether y
 
 📧 **Email:** aswinkr.work@gmail.com  
 📱 **Phone:** +91 8943698229  
-🔗 **LinkedIn:** [aswinkr](https://linkedin.com/in/aswinkr)  
+🔗 **LinkedIn:** [aswinkr](https://linkedin.com/in/aswin-k-r-93a2a0407)
 💻 **GitHub:** [aswinkr-analytics](https://github.com/aswinkr-analytics)
 
 ---

@@ -9,9 +9,9 @@ Welcome to my data analytics portfolio! I'm a **fresher data analyst** passionat
 I bring a unique perspective to data analysis through my scientific background (BSc Zoology). I'm skilled at identifying patterns, asking the right questions, and communicating complex findings in simple, actionable ways to drive business decisions.
 
 - 📍 **Location:** Thiruvalla, Pathanamthitta, Kerala
-- 📧 **Email:** aswinkr.work@gmail.com
+- 📧 **Email:** aswinkr.job@gmail.com
 - 📱 **Phone:** +91 8943698229
-- 🔗 **LinkedIn:** [Connect with me](https://linkedin.com/in/aswinkr)
+- 🔗 **LinkedIn:** [Connect with me](https://linkedin.com/in/aswin-k-r-93a2a0407)
 - 💻 **GitHub:** [aswinkr-analytics](https://github.com/aswinkr-analytics)
 
 ---

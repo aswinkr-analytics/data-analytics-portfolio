@@ -416,7 +416,7 @@ Your Power BI dashboard includes:
 
 This analysis reveals a ₹50-100K annual opportunity through broker consolidation and a critical portfolio rebalancing need to reduce concentration risk.
 
-**Contact:** aswinkr.work@gmail.com | +91 8943698229
+**Contact:** aswinkr.job@gmail.com | +91 8943698229
 
 ---
 
